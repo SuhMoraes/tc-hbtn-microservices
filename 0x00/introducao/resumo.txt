@@ -1,0 +1,19 @@
+O que é microsserviços ?
+Totalmente diferente da arquitetura monolítica onde os serviços são centralizados
+- Os microsserviços são vários pequenos serviços autônomos, que trabalham de forma conjunta.
+Cada microsserviço é feito baseado na regra de negócio específica.
+
+Visão geral da arquitetura Monolítica e de Microserviços
+ Na arquitetura monolítica,  o sistema utilize linguagem única, banco de dados único.
+ Já na arquitetura de microsserviço há baixo nível de acoplamento, os serviços interdepende, os banco de dados são voltados
+ para cada microsserviço.
+
+Os benefícios da arquitetura de microsserviços - Cite 3 exemplos
+- Baixo nível aclopamento.
+- Escalabilidade
+- Facilidade de implantação
+
+Quais são os tipos de comunicação entre os microsserviços ?
+- Comunicação por HTTP
+- Comunicação por Mensagens
+- Comunicação Orientada a Eventos
