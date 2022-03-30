@@ -1,0 +1,10 @@
+Artigo Arquitetura Serverless e FaaS
+
+A arquitetura serverless é um modelo de execução onde o provedor de cloud, será resonsável por executar pedaços de código com recursos que irão ser armazenado e cobrando apenas pelos recursos usados para executar o código em específico.
+Os benefícios da arquitetura serverless são aumento de produtividade dos desenvolvedores e redução de custos operacionais. Possibilidade de implementação de soluções BaaS, para otimizar mais ainda o desenvolvimento de aplicações. Custos operacionais reduzidos.
+Já o FaaS ( função como serviço) é um tipo de Cloud computing que permite que os desenvolvedores criem, executem e gerenciem pacotes de aplicações como funções sem a necessidade de se preocupar com a manutenção da infraestrutura.
+
+Cloud computing é uma tecnologia que possibilita o uso de recursos de computação via internet.
+Monolito seria uma única aplicação com alto acoplamento com toda a regra de negócio e um banco de dados.
+Microserviços são aplicações totalmente independentes.
+Serverless atua juntamente com microsserviços, mas com a diferença que será executada através de funções.
